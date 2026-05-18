@@ -1,9 +1,9 @@
-# Spring Data JPA Relationships
+# Relacionamentos com Spring Data JPA
 
-Project resulting from the study of the [video](https://youtu.be/u8a25mQcMOI) on Youtube. Includes relationship topics: one-to-one, one-to-many, many-to-one, and many-to-many. Tests of relationships that are not in the video have been added.
+Projeto resultante do estudo do [vídeo](https://youtu.be/u8a25mQcMOI) no Youtube. Inclui tópidos de relacionamentos: one-to-one, one-to-many, many-to-one, and many-to-many. Foram adicionados testes de relacionamento que não estão no vídeo.
 
-![Diagram](https://github.com/rafaelsilva-rrs/EmployeeApp/blob/main/em.svg)
+![Diagrama](https://github.com/rafaelsilva-rrs/EmployeeApp/blob/main/em.svg)
 
-__Technologies used:__ Spring Data JPA & Hibernate, MySQL Database, JUnit 5 & AssertJ, Spring Data JPA Test.
+__Tecnologias usadas:__ Spring Data JPA & Hibernate, MySQL Database, JUnit 5 & AssertJ, Spring Data JPA Test.
 
 __IDE:__ IntelliJ IDEA.
